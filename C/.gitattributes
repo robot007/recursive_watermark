@@ -1,0 +1,6 @@
+bin filter=lfs diff=lfs merge=lfs -text
+bin/md5_sample.exe filter=lfs diff=lfs merge=lfs -text
+bin/md5sums.exe filter=lfs diff=lfs merge=lfs -text
+bin/md5sums.txt filter=lfs diff=lfs merge=lfs -text
+bin/rwm.exe filter=lfs diff=lfs merge=lfs -text
+bin/sha_sample.exe filter=lfs diff=lfs merge=lfs -text
