@@ -54,15 +54,11 @@ In the automation and control area, the gap between theory and practice is rathe
 * **The challenge is real**: As seasoned researchers in the automation industry, we want to raise the attention of the industry on the security issues for real-time channels in industrial control systems. This observation is the major motivation of our paper, and it may be related to your project. 
 * **The RWM algorithm is rather simple and practical**: We proposed a solution and hope it is useful to you, and we are trying our best to share knowledge so that you can adjust it. Although the math in the paper looks complicated, the algorithm is rather simple, which is demonstrated in the C code. Most of our effort in the paper was used to prove that the method ``works'' (under certain conditions). Most of our code was used for simulation-based testings. The core algorithm is rather short and you may come up with a dozen ideas to adjust it toward your need. (Meanwhile, we are confident that it would not easy to find a faster alternative with guaranteed performance. We spent many weekends and already tried plenty of alternatives. If you find a faster and stable solution, please let us know immediately. That will be great. :-) )
 * **The challenge is more than just ship automation systems**: Although we only used the ship automation system as the use case, the challenge is generic, and it is probably more serious when the industrial control system enters the IoT paradigm. The familiar Automation Pyramid to shifting to an IoT age Automation Pyramid, where every field device is exposed to the Internet via edge devices. More efficiency, more advanced analytics, more flexibility, but also more security challenges, especically for the **unencrypted** real-time channels.
-  
-<!-- ![Automation Pyramid](img/automation.png)  -->
-<div>
-    <div  style="float: left"><img src="img/automation.png" width=400px> <p align="center">Traditional Automation Pyramid</P></div>
-    <div style="text-align: right"><img src="img/IoTPyramid.png" width=400px><p align="center">IoT Era Automation Pyramid</P></div>
-</div>
 
-<!-- ![IoT Automation Pyramid](img/IoTPyramid.png) -->
-
+<p>
+    <img src="img/automation.png" width=400px> <img src="img/IoTPyramid.png" width=400px>
+    <p>Lef:Traditional Automation Pyramid. Right: IoT Era Automation Pyramid</p>
+</p>
 
 ## Contacts
 * Zhen Song (zhensong@ieee.org)
