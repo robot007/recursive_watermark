@@ -47,7 +47,12 @@ In Bibtex format
 http://www.bzflag.org and http://www.zedwood.com/article/cpp-sha256-function. We appreciate the authors for sharing their excellent work.
 
 ## Media Report
-On Mar 26, 2020, Ms. Michelle Hampson from IEEE Spectrum wrote [a news report on this paper](https://spectrum.ieee.org/tech-talk/telecom/security/new-approach-protects-power-plants-other-major-control-systems-from-hacking) in the Journal Watch column. An offline version is [available here](SpectrumNewsRWM.pdf). Thanks, Michelle!
+On Mar 26, 2020, Ms. Michelle Hampson from IEEE Spectrum wrote [a news report on this paper](https://spectrum.ieee.org/tech-talk/telecom/security/new-approach-protects-power-plants-other-major-control-systems-from-hacking) in the Journal Watch column. An offline version is [available here](SpectrumNewsRWM.pdf). 
+
+## Award
+The paper won the 2020 best paper award for IEEE Tans. Robotics and Automation 
+<img src="https://github.com/user-attachments/assets/23248bda-e6e5-4891-a5c0-c9ab11c2d067" width="300">
+
 
 ## Additional Messages to Practitioners
 In the automation and control area, the gap between theory and practice is rather large. If you are an engineer, you might have seen some paper with dense math, yet little value to practical projects. This paper is not one of those.
